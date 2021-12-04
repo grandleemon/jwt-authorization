@@ -1,6 +1,7 @@
 <component name="ProjectDictionaryState">
   <dictionary name="admin">
     <words>
+      <w>axios</w>
       <w>bcrypt</w>
       <w>nodemailer</w>
       <w>smtp</w>

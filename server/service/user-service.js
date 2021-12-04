@@ -76,6 +76,7 @@ class UserService {
     }
 
     async getAllUsers() {
+        debugger
         const users = await UserModel.find();
         return users;
     }
